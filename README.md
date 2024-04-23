@@ -1,2 +1,2 @@
 # osi-and-tcp
-![osi-and-tcp](./osi-and-tcp.png)
+![osi-and-tcp](./osi-and-tcp.jpg)
